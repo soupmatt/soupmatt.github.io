@@ -10,7 +10,6 @@ github_username:  soupmatt
 exclude:
   - tmp
   - Gemfile*
-  - CNAME
 
 # Build settings
 markdown: kramdown
