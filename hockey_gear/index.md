@@ -155,3 +155,5 @@ Don't forget to take the black soakers off the skate blades!
 # Skate!
 
 Go have fun and skate hard!
+
+![animated gif](images/hockey_gear.gif)
