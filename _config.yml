@@ -1,0 +1,16 @@
+# Site settings
+title: Matt Campbell
+email: matt@soupmatt.com
+description: > # this means to ignore newlines until "baseurl:"
+  I need to put in a descent description here.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://soupmatt.com" # the base hostname & protocol for your site
+# twitter_username: soupmatt
+github_username:  soupmatt
+exclude:
+  - tmp
+  - Gemfile*
+  - CNAME
+
+# Build settings
+markdown: kramdown
