@@ -100,11 +100,10 @@ Just wrap it around and velcro it in the back.
 1. Tighten the laces.
 ![skates07](images/skates/skates07.jpg)
 
-1. Tighten the laces some more.
+1. Tighten the laces some more. The skate should be snug around his foot and ankle the whole way up. If it is too loose, he won't have enough ankle support.
+NOTE: This guide used to tell you to loop the laces around the back of the skate. Don't do this as it allows the laces to get loosers as he skates.
+<br/>
 ![skates08](images/skates/skates08.jpg)
-
-1. Loop both ends of the laces around the back of the skate boot.
-![skates09](images/skates/skates09.jpg)
 
 1. Loop one lace end around the other like you do when you tie your shoes.
 ![skates10](images/skates/skates10.jpg)
@@ -149,7 +148,7 @@ pocket on the front of the bag.
 
 # Soakers
 
-Don't forget to take the black soakers off the skate blades!
+Don't forget to take the soakers off the skate blades!
 
 
 # Skate!
